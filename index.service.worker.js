@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792525068|75441341';
+const CACHE_VERSION = '1792526231|14164380';
 /** @type {string} */
 const CACHE_PREFIX = 'Shape Factory 0.-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
